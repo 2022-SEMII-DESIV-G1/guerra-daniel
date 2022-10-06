@@ -8,9 +8,11 @@ body {
     font-family: Georgia; 
     border-bottom: solid 2px #375e97;
 } 
+
 .title{
     color: #999999;
 }
+
 .box{
     border: 2px solid black;
     padding: 5px;
