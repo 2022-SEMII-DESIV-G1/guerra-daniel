@@ -6,13 +6,13 @@ body {
 .name{
     color:#375e97;
     font-family: Georgia; 
-    border-bottom: solid 3px #375e97;
+    border-bottom: solid 2px #375e97;
 } 
 .title{
-    color:#999999;
+    color: #999999;
 }
 .box{
-    border: 3px solid black;
+    border: 2px solid black;
     padding: 5px;
     display: flex;
     height: 90vh;
