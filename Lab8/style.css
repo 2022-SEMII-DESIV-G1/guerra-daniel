@@ -1,0 +1,50 @@
+body{
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 10px;
+  background-color: #023361;  
+
+}
+h2{
+  font-family: Arial;
+  font-size: 10px;
+  color: black;
+}
+#limpiar{
+  background-color:red;
+}
+#calcular{
+  background-color:blue;
+}
+#divuno{
+  display: flex;
+  justify-content: center;
+}
+#divdos{
+  display: flex;
+  justify-content: center;
+}
+span{
+  color:  #fb6542;
+  font-family: Arial;
+}
+h1{
+  color: white;
+  font-family: Arial;
+  font-size: 30px;
+  text-align: center;
+}
+p{
+  font-family: Arial;
+  color: black;
+}
+hr{
+  color: #375e97;
+}
+sub{
+  color: #999999;
+}
+a{
+  color:  #fb6542;
+  font-family: Arial; 
+}
