@@ -1,0 +1,21 @@
+.linea{
+    width: 50vw;
+    height: 100vh;
+    display: inline;
+    align-self: center;
+    padding: 25px;
+}
+
+.linea2{
+    display: block;
+    background: rgb(0, 0, 0);
+    align-self: center;
+    align-items: center;
+}
+
+.linea3{
+    display: block;
+    background: rgb(0, 0, 0);
+    align-self: center;
+    align-items: center;
+}
