@@ -1,0 +1,51 @@
+.background{
+        width: 40%;
+        margin-left: 35;
+        margin-top: 1%;
+           }
+.Piramide{
+    display: flex;
+    justify-content: center;
+    border-width: 100px;
+}
+.Boton{
+     display: flex;
+     justify-content: center;
+     margin-top: 20px;
+     margin-bottom: 20px;
+}
+.Resultado{
+    display: flex;
+    justify-content: center;
+    font-size: 25;
+    font-style: italic;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0pr;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+li{
+    display: flex;
+    align-self: center;
+    list-style: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-top: 0px;
+    border-bottom: 0px;
+}
+.Btn{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(red, green, blue);
+    font-size: 30px;
+}
+.span{
+    display: block;
+}
