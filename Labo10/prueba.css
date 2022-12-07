@@ -1,0 +1,14 @@
+.principal{
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(3, 0, 88);
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.piramide{
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(7, 22, 194);
+    margin-left: 25px;
+    margin-right: 25px;
+}
